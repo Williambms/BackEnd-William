@@ -1,0 +1,48 @@
+.banner{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 50px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+
+.banner>h1{
+    font-size: 50px;
+}
+
+.banner>h3{
+    font-size: 25px;
+}
+
+.book-content{
+    padding: 25px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+.book-content>.judul{
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.book-content>.penulis{
+    font-size: 15px;
+    color: blanchedalmond;
+}
+
+.book-content>.jumlah-halaman{
+    font-size: 19px;
+    margin-top: 10px;
+}
+
+.book-content>.tahun{
+    font-size: 19px;
+}
+
+.manage-wrapper{
+    margin-top: 20px;
+    padding: 25px;
+    border-radius: 30px;
+    color: blanchedalmond;
+}
+
